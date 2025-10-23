@@ -1,0 +1,1 @@
+Client for the proxy server API. It is in charge of collecting all code written by the participant, generating the diff for the evolution task, sending the code to the proxy server and creating the files with the questions in English and, optionally, in Spanish/Italian.

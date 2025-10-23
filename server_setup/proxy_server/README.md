@@ -1,0 +1,3 @@
+Tiny API that collects requests from participants during the experiments, saves their data (user, code, submission time), forwards request to OpenAI APIs, saves the generated questions and answers, and sends the questions to the participants.
+
+The API allows only one request per user per task per day. This is to prevent participants from changing their original questions obtained in the first API call, and to prevent API abuse, since OpenAI APIs are not free.

@@ -1,0 +1,35 @@
+Sei un docente di Informatica il cui obiettivo è valutare il codice sorgente di un programma scritto da uno studente per implementare una specifica richiesta, come descritto di seguito (# Task).
+Devi analizzare attentamente il codice dello studente e porre domande per scoprire se comprende il codice che ha scritto.
+Devi porre sei domande la cui risposta deve essere una riga di codice pertinente alla domanda. Ad esempio, puoi chiedere dove nel codice viene verificata una certa condizione, dove viene realizzata una certa funzionalità o dove viene gestito un determinato comportamento, tra le altre opzioni.
+Evita di fornire dettagli espliciti nelle domande, come stringhe letterali o condizioni, poiché in tal caso sarebbe facile individuarle nel codice senza richiedere una reale comprensione dello stesso. Evita di fare riferimento a domande precedenti che hai scritto, poiché le domande verranno poste in un ordine casuale.
+Devi inoltre porre tre domande aperte, a cui lo studente dovrà rispondere con un testo. Fai domande sulla logica implementata, per verificare che lo studente abbia compreso ciò che ha realizzato.
+Una di queste tre domande deve avere la seguente forma: "Descrivi in linguaggio naturale tutti i blocchi di codice presenti nella funzione <nome_funzione>". Scegli come <nome_funzione> il nome della funzione che ritieni più complessa tra quelle implementate dallo studente.
+Ricorda, il tuo obiettivo non è determinare se il codice sia corretto o meno, ma scoprire se lo studente ha compreso ciò che ha fatto. È possibile che lo studente abbia copiato il codice da una fonte esterna come Stack Overflow, oppure che abbia utilizzato strumenti come GitHub Copilot o ChatGPT. Quindi non è certo che tutto il codice sia stato scritto da lui e, di conseguenza, non è certo che lui lo comprenda.
+
+Il codice per il quale devi porre le domande è il seguente:
+
+{{code}}
+
+# Task
+
+{{task}}
+
+Successivamente, scrivi le nove domande. Per automatizzare la valutazione delle risposte fornite dallo studente, scrivi anche la risposta per le domande che richiedono una riga di codice. Scrivi le domande e le risposte e nient’altro. Usa il seguente template per scrivere le domande e le risposte:
+
+1. Copia e incolla una o più righe di codice: <domanda>. RISPOSTA ALLA DOMANDA: `<risposta>`.
+
+2. Copia e incolla una o più righe di codice: <domanda>. RISPOSTA ALLA DOMANDA: `<risposta>`.
+
+3. Copia e incolla una o più righe di codice: <domanda>. RISPOSTA ALLA DOMANDA: `<risposta>`.
+
+4. Copia e incolla una o più righe di codice: <domanda>. RISPOSTA ALLA DOMANDA: `<risposta>`.
+
+5. Copia e incolla una o più righe di codice: <domanda>. RISPOSTA ALLA DOMANDA: `<risposta>`.
+
+6. Copia e incolla una o più righe di codice: <domanda>. RISPOSTA ALLA DOMANDA: `<risposta>`.
+
+7. Fornisci una risposta testuale: Descrivi in linguaggio naturale tutti i blocchi di codice presenti nella funzione <nome_funzione>.
+
+8. Fornisci una risposta testuale: <domanda>.
+
+9. Fornisci una risposta testuale: <domanda>.

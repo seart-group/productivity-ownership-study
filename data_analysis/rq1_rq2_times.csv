@@ -1,0 +1,109 @@
+,Language,Study group,Session order,Treatment,Task_type,Task,Task_D1,Task_D2,Task_D3,Task_D4,Task_E1,Task_E2,Task_E3,Task_E4,Education,Position,year_experience,Completeness,"Implementation time
+(minutes)","Questions time
+(minutes)",Experiment
+0,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,55.0,71.15,14.48,U1
+3,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,5.0,63.08,10.74,U1
+4,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,11,43.0,75.63,9.45,U1
+30,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,10,100.0,36.59,12.55,M2
+33,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,8.0,75.71,5.03,M2
+34,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,35.0,71.01,12.53,M2
+37,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,9,84.0,42.46,10.6,M2
+38,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,81.0,67.82,19.96,M2
+41,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,58.0,74.1,10.36,M2
+82,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,6,25.0,69.19,21.12,M2
+85,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,7,77.0,21.12,18.48,M2
+87,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,13,88.0,13.25,16.97,M2
+88,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,10,85.0,47.7,15.7,U1
+115,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,13,60.0,73.48,12.82,U1
+117,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Professional developer,6,70.0,26.84,11.36,S3
+119,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,1,10.0,70.32,7.82,S3
+121,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,80.0,49.75,18.31,S3
+122,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,2,85.0,55.13,14.39,S3
+124,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,4,40.0,69.57,7.74,S3
+127,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,85.0,10.44,14.2,S3
+128,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,2,70.0,66.7,12.77,S3
+131,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,5,50.0,72.49,9.71,S3
+7,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,16.0,71.47,2.04,M1
+13,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,100.0,62.32,10.99,M1
+14,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,52.0,0.97,19.65,M1
+23,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,70.0,77.67,8.48,M1
+24,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,82.0,43.72,7.19,M1
+27,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Master,6,10.0,71.09,7.91,M1
+29,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,100.0,42.83,20.09,M1
+132,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,5.0,57.54,7.52,M1
+134,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,1,40.0,74.01,15.88,M1
+136,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,2,77.0,72.66,18.21,M1
+46,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,5.0,47.79,11.19,S2
+51,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,5,10.0,34.26,4.68,S2
+52,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,80.0,46.49,17.79,S2
+55,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,70.0,52.29,10.08,S2
+56,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,25.0,44.8,13.84,S2
+60,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,0.0,47.49,16.23,S2
+64,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,23.0,27.67,17.85,S2
+67,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,93.0,28.25,16.32,S2
+73,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,73.0,20.76,11.56,S2
+77,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,45.61,10.79,S2
+78,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,25.19,14.65,S2
+90,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,5,70.0,33.84,14.47,S1
+93,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,100.0,52.14,12.43,S1
+94,Java,C,First,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,55.0,56.3,16.57,S1
+98,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,10,95.0,40.79,16.68,S1
+101,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,100.0,37.34,14.53,S1
+102,Java,C,First,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,1,42.5,48.78,16.75,S1
+105,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,2,35.0,42.09,14.74,S1
+106,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,6,66.0,31.48,12.1,S1
+111,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,65.0,55.52,15.03,S1
+112,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,100.0,34.06,16.2,S1
+1,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,80.25,10.48,U1
+2,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,88.0,64.04,17.59,U1
+5,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,11,100.0,7.85,9.66,U1
+31,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,10,50.0,73.42,5.75,M2
+32,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,88.0,77.76,15.39,M2
+35,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,95.0,15.6,15.31,M2
+36,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,9,70.0,81.88,14.09,M2
+39,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,62.4,11.14,M2
+40,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,65.0,80.21,15.92,M2
+83,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,6,90.0,53.2,11.23,M2
+84,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,7,12.0,71.29,14.9,M2
+86,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,13,33.0,72.24,11.22,M2
+89,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,10,80.0,73.19,9.8,U1
+114,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,13,90.0,31.6,13.11,U1
+116,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Professional developer,6,10.0,62.76,11.36,S3
+118,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,1,75.0,45.66,16.0,S3
+120,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,0.0,62.18,15.2,S3
+123,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,2,35.0,66.33,7.48,S3
+125,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,4,95.0,24.18,9.69,S3
+126,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,25.0,61.92,10.5,S3
+129,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,2,60.0,65.65,8.64,S3
+130,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,5,100.0,27.1,15.11,S3
+6,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,68.96,8.13,M1
+12,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,65.0,68.43,14.51,M1
+15,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,10.0,42.0,15.78,M1
+22,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,2.82,10.31,M1
+25,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,50.0,72.93,4.64,M1
+26,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Master,6,72.0,69.03,12.14,M1
+28,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,30.0,78.02,6.79,M1
+133,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,85.0,32.43,5.24,M1
+135,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,1,45.0,70.81,9.46,M1
+137,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,2,90.0,21.11,15.94,M1
+47,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,45.98,7.12,S2
+50,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,5,60.0,41.04,6.49,S2
+53,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,80.0,47.32,8.62,S2
+54,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,33.0,12.74,7.75,S2
+57,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,47.11,8.12,S2
+61,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,30.09,12.86,S2
+65,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,95.0,27.76,18.94,S2
+66,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,75.87,7.11,S2
+72,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,35.0,21.2,12.37,S2
+76,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,49.37,8.83,S2
+79,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,42.5,9.57,S2
+91,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Master,Master,5,10.0,55.85,14.54,S1
+92,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,60.0,52.14,11.63,S1
+95,Java,C,Second,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,4,95.0,58.73,16.1,S1
+99,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Master,Master,10,0.0,45.43,16.35,S1
+100,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,10.0,10.12,11.58,S1
+103,Java,C,Second,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,1,80.0,40.68,18.65,S1
+104,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,2,75.0,50.89,15.55,S1
+107,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,6,10.0,46.73,12.81,S1
+110,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,75.0,52.38,16.72,S1
+113,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,4,5.0,47.27,16.91,S1

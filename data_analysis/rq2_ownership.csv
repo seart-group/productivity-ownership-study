@@ -1,0 +1,1051 @@
+,Language,Study group,Session order,Treatment,Task_type,Task,Task_D1,Task_D2,Task_D3,Task_D4,Task_E1,Task_E2,Task_E3,Task_E4,Education,Position,year_experience,Completeness,question_score,Experiment
+0,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,55.0,0,U1
+0,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,55.0,0,U1
+0,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,55.0,0,U1
+0,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,55.0,1,U1
+0,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,55.0,1,U1
+0,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,55.0,1,U1
+0,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,55.0,1,U1
+0,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,55.0,1,U1
+0,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,55.0,0,U1
+3,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,5.0,1,U1
+3,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,5.0,1,U1
+3,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,5.0,1,U1
+3,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,5.0,0,U1
+3,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,5.0,1,U1
+3,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,5.0,1,U1
+3,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,5.0,1,U1
+4,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,11,43.0,1,U1
+4,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,11,43.0,1,U1
+4,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,11,43.0,1,U1
+4,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,11,43.0,1,U1
+4,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,11,43.0,1,U1
+4,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,11,43.0,1,U1
+4,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,11,43.0,1,U1
+4,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,11,43.0,1,U1
+4,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,11,43.0,1,U1
+30,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,10,100.0,1,M2
+30,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,10,100.0,1,M2
+30,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,10,100.0,1,M2
+30,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,10,100.0,1,M2
+30,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,10,100.0,1,M2
+30,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,10,100.0,1,M2
+33,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,8.0,1,M2
+33,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,8.0,1,M2
+33,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,8.0,1,M2
+33,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,8.0,1,M2
+33,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,8.0,1,M2
+33,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,8.0,1,M2
+33,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,8.0,1,M2
+33,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,8.0,1,M2
+34,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,35.0,1,M2
+34,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,35.0,1,M2
+34,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,35.0,1,M2
+34,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,35.0,1,M2
+34,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,35.0,1,M2
+34,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,35.0,1,M2
+34,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,35.0,1,M2
+34,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,35.0,1,M2
+34,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,8,35.0,1,M2
+37,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,9,84.0,1,M2
+37,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,9,84.0,1,M2
+37,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,9,84.0,1,M2
+37,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,9,84.0,1,M2
+37,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,9,84.0,1,M2
+37,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,9,84.0,1,M2
+37,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,9,84.0,1,M2
+37,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,9,84.0,1,M2
+37,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,9,84.0,1,M2
+38,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,81.0,1,M2
+38,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,81.0,1,M2
+38,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,81.0,1,M2
+38,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,81.0,1,M2
+38,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,81.0,1,M2
+38,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,81.0,1,M2
+38,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,81.0,1,M2
+38,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,7,81.0,1,M2
+41,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,58.0,1,M2
+41,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,58.0,1,M2
+41,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,58.0,1,M2
+41,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,58.0,1,M2
+41,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,58.0,1,M2
+41,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,58.0,1,M2
+41,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,58.0,1,M2
+41,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,58.0,1,M2
+41,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,8,58.0,1,M2
+82,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,6,25.0,1,M2
+82,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,6,25.0,0,M2
+82,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,6,25.0,0,M2
+82,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,6,25.0,1,M2
+82,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,6,25.0,1,M2
+82,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,6,25.0,1,M2
+82,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,6,25.0,1,M2
+82,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,6,25.0,1,M2
+82,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,6,25.0,1,M2
+85,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,7,77.0,1,M2
+85,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,7,77.0,1,M2
+85,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,7,77.0,1,M2
+85,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,7,77.0,0,M2
+85,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,7,77.0,1,M2
+85,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,7,77.0,1,M2
+85,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,7,77.0,1,M2
+85,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,7,77.0,1,M2
+87,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,13,88.0,1,M2
+87,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,13,88.0,1,M2
+87,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,13,88.0,1,M2
+87,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,13,88.0,1,M2
+87,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,13,88.0,1,M2
+87,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,13,88.0,1,M2
+87,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,13,88.0,1,M2
+87,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,13,88.0,1,M2
+87,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,13,88.0,1,M2
+88,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,10,85.0,1,U1
+88,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,10,85.0,1,U1
+88,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,10,85.0,1,U1
+88,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,10,85.0,1,U1
+88,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,10,85.0,1,U1
+88,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,10,85.0,1,U1
+88,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,10,85.0,1,U1
+88,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,10,85.0,1,U1
+88,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Postdoc,10,85.0,0,U1
+115,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,13,60.0,1,U1
+115,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,13,60.0,1,U1
+115,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,13,60.0,1,U1
+115,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,13,60.0,1,U1
+115,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,13,60.0,1,U1
+115,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,13,60.0,1,U1
+115,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,13,60.0,1,U1
+115,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,13,60.0,1,U1
+115,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,13,60.0,1,U1
+117,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Professional developer,6,70.0,1,S3
+117,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Professional developer,6,70.0,1,S3
+117,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Professional developer,6,70.0,1,S3
+117,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Professional developer,6,70.0,1,S3
+117,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Professional developer,6,70.0,1,S3
+117,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Professional developer,6,70.0,1,S3
+117,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Professional developer,6,70.0,0,S3
+117,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,PhD,Professional developer,6,70.0,1,S3
+119,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,1,10.0,1,S3
+119,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,1,10.0,0,S3
+119,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,1,10.0,1,S3
+119,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,1,10.0,0,S3
+119,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,1,10.0,0,S3
+119,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,1,10.0,1,S3
+119,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,1,10.0,1,S3
+121,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,80.0,0,S3
+121,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,80.0,1,S3
+121,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,80.0,0,S3
+121,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,80.0,1,S3
+121,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,80.0,1,S3
+121,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,80.0,1,S3
+121,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,80.0,1,S3
+121,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,80.0,1,S3
+121,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,80.0,1,S3
+122,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,2,85.0,1,S3
+122,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,2,85.0,1,S3
+122,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,2,85.0,1,S3
+122,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,2,85.0,0,S3
+122,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,2,85.0,1,S3
+122,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,2,85.0,1,S3
+122,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,2,85.0,0,S3
+122,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,2,85.0,1,S3
+122,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,2,85.0,1,S3
+124,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,4,40.0,1,S3
+124,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,4,40.0,1,S3
+124,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,4,40.0,1,S3
+124,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,4,40.0,1,S3
+124,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,4,40.0,1,S3
+124,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,4,40.0,1,S3
+124,Python,C,First,NAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,4,40.0,1,S3
+127,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,85.0,0,S3
+127,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,85.0,1,S3
+127,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,85.0,1,S3
+127,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,85.0,1,S3
+127,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,85.0,1,S3
+127,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,85.0,1,S3
+127,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,85.0,1,S3
+127,Python,D,Second,WAI,D,D1,1,0,0,0,0,0,0,0,Master,Professional developer,5,85.0,1,S3
+128,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,2,70.0,1,S3
+128,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,2,70.0,1,S3
+128,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,2,70.0,1,S3
+128,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,2,70.0,1,S3
+128,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,2,70.0,1,S3
+128,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,2,70.0,1,S3
+128,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,2,70.0,1,S3
+128,Python,A,First,WAI,D,D1,1,0,0,0,0,0,0,0,Bachelor,Professional developer,2,70.0,1,S3
+131,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,5,50.0,1,S3
+131,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,5,50.0,0,S3
+131,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,5,50.0,1,S3
+131,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,5,50.0,0,S3
+131,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,5,50.0,1,S3
+131,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,5,50.0,1,S3
+131,Python,B,Second,NAI,D,D1,1,0,0,0,0,0,0,0,Master,PhD Student,5,50.0,1,S3
+7,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,16.0,0,M1
+7,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,16.0,0,M1
+7,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,16.0,0,M1
+7,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,16.0,1,M1
+7,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,16.0,1,M1
+7,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,16.0,0,M1
+7,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,16.0,0,M1
+7,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,16.0,0,M1
+9,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,35.0,1,M1
+9,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,35.0,0,M1
+9,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,35.0,1,M1
+9,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,35.0,1,M1
+9,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,35.0,1,M1
+9,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,35.0,1,M1
+9,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,35.0,0,M1
+9,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,35.0,0,M1
+9,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,35.0,1,M1
+10,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,55.0,1,M1
+10,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,55.0,1,M1
+10,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,55.0,1,M1
+10,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,55.0,1,M1
+10,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,55.0,1,M1
+10,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,55.0,0,M1
+10,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,55.0,1,M1
+10,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,55.0,1,M1
+13,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,100.0,1,M1
+13,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,100.0,1,M1
+13,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,100.0,0,M1
+13,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,100.0,0,M1
+13,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,100.0,0,M1
+13,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,100.0,0,M1
+13,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,100.0,0,M1
+14,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,52.0,1,M1
+14,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,52.0,1,M1
+14,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,52.0,0,M1
+14,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,52.0,0,M1
+14,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,52.0,0,M1
+14,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,52.0,1,M1
+14,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,52.0,0,M1
+14,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,52.0,1,M1
+17,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,57.0,1,M1
+17,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,57.0,1,M1
+17,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,57.0,1,M1
+17,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,57.0,1,M1
+17,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,57.0,1,M1
+17,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,57.0,1,M1
+17,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,57.0,1,M1
+17,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,57.0,1,M1
+17,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,57.0,1,M1
+18,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,33.0,1,M1
+18,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,33.0,1,M1
+18,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,33.0,1,M1
+18,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,33.0,1,M1
+18,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,33.0,1,M1
+18,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,33.0,1,M1
+18,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,3,33.0,1,M1
+20,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,1,100.0,0,M1
+20,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,1,100.0,1,M1
+20,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,1,100.0,1,M1
+20,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,1,100.0,0,M1
+20,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,1,100.0,1,M1
+20,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,1,100.0,1,M1
+20,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,1,100.0,1,M1
+23,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,70.0,1,M1
+23,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,70.0,1,M1
+23,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,70.0,1,M1
+23,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,70.0,1,M1
+23,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,70.0,1,M1
+23,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,70.0,1,M1
+23,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,70.0,1,M1
+23,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,70.0,1,M1
+23,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,5,70.0,1,M1
+24,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,82.0,1,M1
+24,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,82.0,1,M1
+24,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,82.0,1,M1
+24,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,82.0,1,M1
+24,Java,A,First,WAI,D,D2,0,1,0,0,0,0,0,0,High school,Bachelor,4,82.0,1,M1
+27,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Master,6,10.0,1,M1
+27,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Master,6,10.0,1,M1
+27,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Master,6,10.0,1,M1
+27,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Master,6,10.0,1,M1
+27,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Master,6,10.0,1,M1
+27,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Master,6,10.0,1,M1
+27,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Master,6,10.0,1,M1
+27,Java,B,Second,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Master,6,10.0,1,M1
+29,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,100.0,1,M1
+29,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,100.0,1,M1
+29,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,100.0,1,M1
+29,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,100.0,1,M1
+29,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,100.0,1,M1
+29,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,100.0,1,M1
+29,Java,D,Second,WAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,100.0,0,M1
+132,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,5.0,1,M1
+132,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,5.0,1,M1
+132,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,5.0,1,M1
+132,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,5.0,0,M1
+132,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,5.0,0,M1
+132,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,5.0,1,M1
+132,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,5.0,1,M1
+132,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,4,5.0,1,M1
+134,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,1,40.0,1,M1
+134,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,1,40.0,1,M1
+134,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,1,40.0,1,M1
+134,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,1,40.0,1,M1
+134,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,1,40.0,1,M1
+134,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,1,40.0,1,M1
+134,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,1,40.0,1,M1
+134,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,1,40.0,1,M1
+136,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,2,77.0,1,M1
+136,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,2,77.0,0,M1
+136,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,2,77.0,1,M1
+136,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,2,77.0,1,M1
+136,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,2,77.0,1,M1
+136,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,2,77.0,0,M1
+136,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,2,77.0,1,M1
+136,Java,C,First,NAI,D,D2,0,1,0,0,0,0,0,0,Bachelor,Bachelor,2,77.0,1,M1
+42,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,45.0,1,S2
+42,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,45.0,1,S2
+42,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,45.0,1,S2
+42,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,45.0,1,S2
+42,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,45.0,1,S2
+42,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,45.0,1,S2
+42,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,45.0,1,S2
+42,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,45.0,1,S2
+42,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,45.0,1,S2
+44,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,65.0,0,S2
+44,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,65.0,1,S2
+44,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,65.0,1,S2
+44,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,65.0,1,S2
+44,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,65.0,1,S2
+44,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,65.0,1,S2
+44,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,65.0,1,S2
+44,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,65.0,1,S2
+44,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,65.0,1,S2
+46,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,5.0,1,S2
+46,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,5.0,1,S2
+46,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,5.0,1,S2
+46,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,5.0,1,S2
+46,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,5.0,0,S2
+46,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,5.0,0,S2
+46,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,5.0,1,S2
+46,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,5.0,1,S2
+46,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,5.0,1,S2
+48,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,85.0,1,S2
+48,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,85.0,1,S2
+48,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,85.0,1,S2
+48,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,85.0,1,S2
+48,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,85.0,1,S2
+48,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,85.0,0,S2
+48,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,85.0,1,S2
+48,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,85.0,1,S2
+48,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,85.0,1,S2
+51,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,5,10.0,1,S2
+51,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,5,10.0,1,S2
+51,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,5,10.0,1,S2
+51,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,5,10.0,1,S2
+51,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,5,10.0,1,S2
+51,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,5,10.0,1,S2
+51,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,5,10.0,1,S2
+51,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,5,10.0,1,S2
+52,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,80.0,1,S2
+52,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,80.0,1,S2
+52,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,80.0,1,S2
+52,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,80.0,1,S2
+52,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,80.0,1,S2
+52,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,80.0,1,S2
+52,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,80.0,1,S2
+52,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,80.0,1,S2
+52,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,80.0,1,S2
+55,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,70.0,0,S2
+55,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,70.0,1,S2
+55,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,70.0,0,S2
+55,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,70.0,1,S2
+55,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,70.0,1,S2
+55,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,70.0,1,S2
+55,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,70.0,1,S2
+55,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,70.0,1,S2
+55,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,70.0,1,S2
+56,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,25.0,1,S2
+56,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,25.0,1,S2
+56,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,25.0,1,S2
+56,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,25.0,1,S2
+56,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,25.0,1,S2
+56,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,25.0,1,S2
+56,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,25.0,0,S2
+56,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,25.0,1,S2
+59,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,30.0,1,S2
+59,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,30.0,1,S2
+59,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,30.0,1,S2
+59,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,30.0,1,S2
+59,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,30.0,1,S2
+59,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,30.0,1,S2
+59,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,30.0,1,S2
+59,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,30.0,0,S2
+59,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,30.0,1,S2
+60,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,0.0,1,S2
+60,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,0.0,1,S2
+60,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,0.0,1,S2
+60,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,0.0,0,S2
+60,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,0.0,1,S2
+60,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,0.0,1,S2
+60,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,0.0,1,S2
+60,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,0.0,1,S2
+60,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,0.0,1,S2
+63,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,35.0,1,S2
+63,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,35.0,0,S2
+63,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,35.0,0,S2
+63,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,35.0,1,S2
+63,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,35.0,1,S2
+63,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,35.0,1,S2
+63,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,35.0,1,S2
+63,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,35.0,1,S2
+63,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,35.0,0,S2
+64,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,23.0,1,S2
+64,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,23.0,1,S2
+64,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,23.0,1,S2
+64,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,23.0,1,S2
+64,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,23.0,1,S2
+64,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,23.0,0,S2
+64,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,23.0,1,S2
+64,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,23.0,1,S2
+67,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,93.0,1,S2
+67,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,93.0,1,S2
+67,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,93.0,1,S2
+67,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,93.0,1,S2
+67,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,93.0,1,S2
+67,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,93.0,1,S2
+67,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,93.0,1,S2
+67,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,93.0,1,S2
+68,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,60.0,1,S2
+68,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,60.0,1,S2
+68,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,60.0,1,S2
+68,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,60.0,1,S2
+68,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,60.0,1,S2
+68,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,60.0,1,S2
+68,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,60.0,1,S2
+68,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,60.0,1,S2
+68,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,60.0,1,S2
+71,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,45.0,1,S2
+71,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,45.0,1,S2
+71,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,45.0,1,S2
+71,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,45.0,1,S2
+71,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,45.0,1,S2
+71,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,45.0,1,S2
+71,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,45.0,1,S2
+71,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,45.0,1,S2
+73,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,73.0,1,S2
+73,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,73.0,0,S2
+73,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,73.0,1,S2
+73,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,73.0,1,S2
+73,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,73.0,1,S2
+73,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,73.0,1,S2
+73,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,73.0,1,S2
+73,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,73.0,1,S2
+73,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,73.0,1,S2
+74,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,73.0,1,S2
+74,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,73.0,1,S2
+74,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,73.0,1,S2
+74,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,73.0,1,S2
+74,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,73.0,0,S2
+74,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,73.0,1,S2
+74,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,73.0,0,S2
+74,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,73.0,1,S2
+74,Java,A,First,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,1,73.0,1,S2
+77,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,0,S2
+77,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,0,S2
+77,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,1,S2
+77,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,0,S2
+77,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,1,S2
+77,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,1,S2
+77,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,1,S2
+77,Java,B,Second,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,1,S2
+78,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,1,S2
+78,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,1,S2
+78,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,1,S2
+78,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,1,S2
+78,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,1,S2
+78,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,1,S2
+78,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,1,S2
+78,Java,C,First,NAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,2,10.0,1,S2
+81,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,73.0,1,S2
+81,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,73.0,1,S2
+81,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,73.0,1,S2
+81,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,73.0,1,S2
+81,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,73.0,1,S2
+81,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,73.0,1,S2
+81,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,73.0,1,S2
+81,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,73.0,1,S2
+81,Java,D,Second,WAI,D,D3,0,0,1,0,0,0,0,0,High school,Bachelor,3,73.0,1,S2
+90,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,5,70.0,0,S1
+90,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,5,70.0,0,S1
+90,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,5,70.0,0,S1
+90,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,5,70.0,0,S1
+90,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,5,70.0,0,S1
+90,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,5,70.0,0,S1
+93,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,100.0,0,S1
+93,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,100.0,1,S1
+93,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,100.0,1,S1
+93,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,100.0,1,S1
+93,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,100.0,1,S1
+94,Java,C,First,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,55.0,1,S1
+94,Java,C,First,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,55.0,1,S1
+94,Java,C,First,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,55.0,1,S1
+94,Java,C,First,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,55.0,1,S1
+94,Java,C,First,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,55.0,1,S1
+94,Java,C,First,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,55.0,1,S1
+97,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,2,32.5,1,S1
+97,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,2,32.5,1,S1
+97,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,2,32.5,1,S1
+97,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,2,32.5,1,S1
+98,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,10,95.0,0,S1
+98,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,10,95.0,0,S1
+98,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,10,95.0,0,S1
+98,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,10,95.0,0,S1
+98,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,10,95.0,0,S1
+98,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Master,Master,10,95.0,1,S1
+101,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,100.0,1,S1
+101,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,100.0,1,S1
+101,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,100.0,1,S1
+101,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,100.0,1,S1
+101,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,100.0,1,S1
+101,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,100.0,0,S1
+102,Java,C,First,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,1,42.5,1,S1
+102,Java,C,First,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,1,42.5,1,S1
+102,Java,C,First,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,1,42.5,1,S1
+102,Java,C,First,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,1,42.5,1,S1
+102,Java,C,First,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,1,42.5,1,S1
+105,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,2,35.0,0,S1
+105,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,2,35.0,1,S1
+105,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,2,35.0,1,S1
+105,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,2,35.0,1,S1
+105,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,2,35.0,0,S1
+105,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,2,35.0,1,S1
+106,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,6,66.0,1,S1
+106,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,6,66.0,0,S1
+106,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,6,66.0,0,S1
+106,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,6,66.0,1,S1
+106,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,6,66.0,0,S1
+109,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,5,100.0,1,S1
+109,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,5,100.0,1,S1
+109,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,5,100.0,0,S1
+109,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,5,100.0,0,S1
+109,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,5,100.0,1,S1
+109,Java,D,Second,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,5,100.0,1,S1
+111,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,65.0,1,S1
+111,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,65.0,1,S1
+111,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,65.0,1,S1
+111,Java,B,Second,NAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,3,65.0,1,S1
+112,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,100.0,1,S1
+112,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,100.0,1,S1
+112,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,100.0,1,S1
+112,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,100.0,1,S1
+112,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,100.0,1,S1
+112,Java,A,First,WAI,D,D4,0,0,0,1,0,0,0,0,Bachelor,Master,4,100.0,1,S1
+1,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,U1
+1,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,U1
+1,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,U1
+1,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,U1
+1,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,U1
+1,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,U1
+1,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,U1
+1,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,U1
+1,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,U1
+2,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,88.0,1,U1
+2,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,88.0,1,U1
+2,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,88.0,1,U1
+2,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,88.0,1,U1
+2,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,88.0,1,U1
+2,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,88.0,1,U1
+2,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,88.0,1,U1
+2,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,88.0,1,U1
+5,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,11,100.0,1,U1
+5,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,11,100.0,1,U1
+5,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,11,100.0,1,U1
+5,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,11,100.0,1,U1
+5,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,11,100.0,1,U1
+5,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,11,100.0,1,U1
+5,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,11,100.0,1,U1
+5,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,11,100.0,1,U1
+31,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,10,50.0,1,M2
+31,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,10,50.0,1,M2
+31,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,10,50.0,1,M2
+31,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,10,50.0,1,M2
+31,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,10,50.0,1,M2
+31,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,10,50.0,1,M2
+31,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,10,50.0,1,M2
+31,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,10,50.0,1,M2
+31,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,10,50.0,1,M2
+32,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,88.0,1,M2
+32,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,88.0,1,M2
+32,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,88.0,1,M2
+32,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,88.0,1,M2
+32,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,88.0,1,M2
+32,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,88.0,1,M2
+32,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,88.0,1,M2
+32,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,88.0,1,M2
+32,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,88.0,1,M2
+35,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,95.0,0,M2
+35,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,95.0,1,M2
+35,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,95.0,1,M2
+35,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,95.0,1,M2
+35,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,8,95.0,1,M2
+36,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,9,70.0,1,M2
+36,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,9,70.0,1,M2
+36,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,9,70.0,1,M2
+36,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,9,70.0,1,M2
+36,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,9,70.0,1,M2
+36,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,9,70.0,1,M2
+36,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,9,70.0,1,M2
+36,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,9,70.0,1,M2
+36,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,9,70.0,1,M2
+39,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,M2
+39,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,M2
+39,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,M2
+39,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,M2
+39,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,M2
+39,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,M2
+39,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,M2
+39,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,7,70.0,1,M2
+40,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,65.0,1,M2
+40,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,65.0,1,M2
+40,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,65.0,1,M2
+40,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,65.0,0,M2
+40,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,65.0,0,M2
+40,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,65.0,1,M2
+40,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,65.0,1,M2
+40,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,8,65.0,1,M2
+83,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,6,90.0,1,M2
+83,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,6,90.0,1,M2
+83,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,6,90.0,1,M2
+83,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,6,90.0,1,M2
+83,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,6,90.0,1,M2
+83,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,6,90.0,1,M2
+83,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,6,90.0,1,M2
+83,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,6,90.0,1,M2
+83,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,6,90.0,1,M2
+84,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,7,12.0,1,M2
+84,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,7,12.0,1,M2
+84,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,7,12.0,0,M2
+84,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,7,12.0,1,M2
+84,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,7,12.0,1,M2
+84,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,7,12.0,1,M2
+84,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,7,12.0,1,M2
+84,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,7,12.0,1,M2
+84,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,7,12.0,0,M2
+86,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,13,33.0,1,M2
+86,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,13,33.0,1,M2
+86,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,13,33.0,1,M2
+86,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,13,33.0,1,M2
+86,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,13,33.0,1,M2
+86,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,13,33.0,1,M2
+86,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,13,33.0,1,M2
+86,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,13,33.0,1,M2
+89,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,10,80.0,1,U1
+89,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,10,80.0,1,U1
+89,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,10,80.0,1,U1
+89,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,10,80.0,1,U1
+89,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,10,80.0,1,U1
+89,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,10,80.0,1,U1
+89,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,10,80.0,1,U1
+89,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Postdoc,10,80.0,1,U1
+114,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,13,90.0,1,U1
+114,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,13,90.0,1,U1
+114,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,13,90.0,1,U1
+114,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,13,90.0,1,U1
+114,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,13,90.0,1,U1
+114,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,13,90.0,1,U1
+114,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,13,90.0,1,U1
+114,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,13,90.0,1,U1
+116,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Professional developer,6,10.0,1,S3
+116,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Professional developer,6,10.0,1,S3
+116,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Professional developer,6,10.0,0,S3
+116,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Professional developer,6,10.0,1,S3
+116,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Professional developer,6,10.0,1,S3
+116,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Professional developer,6,10.0,1,S3
+116,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Professional developer,6,10.0,1,S3
+116,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,PhD,Professional developer,6,10.0,1,S3
+118,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,1,75.0,0,S3
+118,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,1,75.0,1,S3
+118,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,1,75.0,1,S3
+118,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,1,75.0,0,S3
+118,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,1,75.0,0,S3
+118,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,1,75.0,1,S3
+118,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,1,75.0,1,S3
+118,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,1,75.0,1,S3
+118,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,1,75.0,0,S3
+120,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,0.0,1,S3
+120,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,0.0,1,S3
+120,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,0.0,1,S3
+120,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,0.0,1,S3
+120,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,0.0,1,S3
+120,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,0.0,1,S3
+120,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,0.0,1,S3
+120,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,0.0,1,S3
+123,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,2,35.0,1,S3
+123,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,2,35.0,1,S3
+123,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,2,35.0,1,S3
+123,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,2,35.0,1,S3
+123,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,2,35.0,1,S3
+123,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,2,35.0,1,S3
+123,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,2,35.0,1,S3
+123,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,2,35.0,1,S3
+125,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,4,95.0,1,S3
+125,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,4,95.0,1,S3
+125,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,4,95.0,1,S3
+125,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,4,95.0,1,S3
+125,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,4,95.0,1,S3
+125,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,4,95.0,1,S3
+125,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,4,95.0,1,S3
+125,Python,C,Second,WAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,4,95.0,1,S3
+126,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,25.0,1,S3
+126,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,25.0,1,S3
+126,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,25.0,1,S3
+126,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,25.0,1,S3
+126,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,25.0,1,S3
+126,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,25.0,1,S3
+126,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,25.0,1,S3
+126,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,25.0,1,S3
+126,Python,D,First,NAI,E,E1,0,0,0,0,1,0,0,0,Master,Professional developer,5,25.0,1,S3
+129,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,2,60.0,1,S3
+129,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,2,60.0,1,S3
+129,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,2,60.0,1,S3
+129,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,2,60.0,1,S3
+129,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,2,60.0,1,S3
+129,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,2,60.0,1,S3
+129,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,2,60.0,1,S3
+129,Python,A,Second,NAI,E,E1,0,0,0,0,1,0,0,0,Bachelor,Professional developer,2,60.0,1,S3
+130,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,5,100.0,1,S3
+130,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,5,100.0,1,S3
+130,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,5,100.0,1,S3
+130,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,5,100.0,1,S3
+130,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,5,100.0,1,S3
+130,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,5,100.0,1,S3
+130,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,5,100.0,1,S3
+130,Python,B,First,WAI,E,E1,0,0,0,0,1,0,0,0,Master,PhD Student,5,100.0,1,S3
+6,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,1,M1
+6,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,1,M1
+6,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,1,M1
+6,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,0,M1
+6,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,0,M1
+6,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,0,M1
+6,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,1,M1
+8,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+8,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+8,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+8,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+8,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,0,M1
+8,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+8,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+11,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,90.0,0,M1
+11,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,90.0,1,M1
+11,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,90.0,1,M1
+11,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,90.0,1,M1
+11,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,90.0,0,M1
+11,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,90.0,0,M1
+11,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,90.0,1,M1
+11,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,90.0,0,M1
+12,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,65.0,1,M1
+12,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,65.0,1,M1
+12,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,65.0,1,M1
+12,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,65.0,1,M1
+12,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,65.0,1,M1
+12,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,65.0,1,M1
+12,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,65.0,1,M1
+12,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,65.0,0,M1
+15,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,10.0,1,M1
+15,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,10.0,1,M1
+15,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,10.0,1,M1
+15,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,10.0,1,M1
+15,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,10.0,1,M1
+15,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,10.0,1,M1
+16,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+16,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+16,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+16,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+16,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+16,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+16,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+16,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+16,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,92.0,1,M1
+19,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,48.0,1,M1
+19,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,48.0,1,M1
+19,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,48.0,1,M1
+19,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,48.0,0,M1
+19,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,48.0,1,M1
+19,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,48.0,1,M1
+19,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,3,48.0,1,M1
+21,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,1,86.0,1,M1
+21,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,1,86.0,1,M1
+21,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,1,86.0,1,M1
+21,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,1,86.0,0,M1
+21,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,1,86.0,1,M1
+21,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,1,86.0,0,M1
+21,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,1,86.0,0,M1
+21,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,1,86.0,0,M1
+22,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,1,M1
+22,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,1,M1
+22,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,1,M1
+22,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,1,M1
+22,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,1,M1
+22,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,5,80.0,1,M1
+25,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,50.0,1,M1
+25,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,50.0,1,M1
+25,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,50.0,1,M1
+25,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,50.0,1,M1
+25,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,50.0,1,M1
+25,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,50.0,1,M1
+25,Java,A,Second,NAI,E,E2,0,0,0,0,0,1,0,0,High school,Bachelor,4,50.0,1,M1
+26,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Master,6,72.0,1,M1
+26,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Master,6,72.0,1,M1
+26,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Master,6,72.0,0,M1
+26,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Master,6,72.0,0,M1
+26,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Master,6,72.0,1,M1
+26,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Master,6,72.0,1,M1
+26,Java,B,First,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Master,6,72.0,1,M1
+28,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,30.0,1,M1
+28,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,30.0,1,M1
+28,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,30.0,0,M1
+28,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,30.0,1,M1
+28,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,30.0,1,M1
+28,Java,D,First,NAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,30.0,1,M1
+133,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,85.0,0,M1
+133,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,85.0,1,M1
+133,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,85.0,1,M1
+133,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,85.0,1,M1
+133,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,85.0,1,M1
+133,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,85.0,1,M1
+133,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,85.0,0,M1
+133,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,4,85.0,0,M1
+135,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,1,45.0,1,M1
+135,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,1,45.0,1,M1
+135,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,1,45.0,0,M1
+135,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,1,45.0,1,M1
+135,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,1,45.0,1,M1
+135,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,1,45.0,1,M1
+135,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,1,45.0,1,M1
+135,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,1,45.0,1,M1
+137,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,2,90.0,1,M1
+137,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,2,90.0,1,M1
+137,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,2,90.0,1,M1
+137,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,2,90.0,1,M1
+137,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,2,90.0,1,M1
+137,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,2,90.0,1,M1
+137,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,2,90.0,1,M1
+137,Java,C,Second,WAI,E,E2,0,0,0,0,0,1,0,0,Bachelor,Bachelor,2,90.0,1,M1
+43,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,100.0,1,S2
+43,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,100.0,1,S2
+43,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,100.0,0,S2
+43,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,100.0,1,S2
+43,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,100.0,1,S2
+43,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,100.0,1,S2
+43,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,100.0,1,S2
+43,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,100.0,1,S2
+45,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,3,90.0,1,S2
+45,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,3,90.0,1,S2
+45,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,3,90.0,1,S2
+45,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,3,90.0,1,S2
+45,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,3,90.0,1,S2
+45,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,3,90.0,1,S2
+45,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,3,90.0,0,S2
+47,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,0,S2
+47,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,0,S2
+47,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+47,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+47,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,0,S2
+47,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+47,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+47,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+49,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,50.0,1,S2
+49,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,50.0,1,S2
+49,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,50.0,0,S2
+49,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,50.0,0,S2
+49,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,50.0,0,S2
+49,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,50.0,0,S2
+49,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,50.0,1,S2
+49,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,50.0,1,S2
+50,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,5,60.0,1,S2
+50,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,5,60.0,1,S2
+50,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,5,60.0,1,S2
+50,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,5,60.0,1,S2
+50,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,5,60.0,1,S2
+50,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,5,60.0,0,S2
+50,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,5,60.0,1,S2
+50,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,5,60.0,1,S2
+53,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,80.0,1,S2
+53,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,80.0,0,S2
+53,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,80.0,1,S2
+53,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,80.0,1,S2
+53,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,80.0,1,S2
+53,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,80.0,1,S2
+53,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,80.0,1,S2
+53,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,80.0,1,S2
+54,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,33.0,1,S2
+54,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,33.0,1,S2
+54,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,33.0,1,S2
+54,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,33.0,0,S2
+54,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,33.0,1,S2
+54,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,33.0,1,S2
+54,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,33.0,1,S2
+54,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,33.0,1,S2
+57,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+57,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+57,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+57,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+57,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+57,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+57,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+57,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+57,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+58,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,38.0,1,S2
+58,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,38.0,1,S2
+58,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,38.0,1,S2
+58,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,38.0,1,S2
+58,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,38.0,1,S2
+58,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,38.0,1,S2
+58,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,38.0,1,S2
+58,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,38.0,1,S2
+61,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+61,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+61,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+61,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+61,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+61,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+61,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+61,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,0,S2
+61,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+62,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,8.0,1,S2
+62,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,8.0,0,S2
+62,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,8.0,0,S2
+62,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,8.0,1,S2
+62,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,8.0,0,S2
+62,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,8.0,1,S2
+62,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,8.0,1,S2
+62,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,8.0,1,S2
+65,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,95.0,1,S2
+65,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,95.0,0,S2
+65,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,95.0,1,S2
+65,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,95.0,1,S2
+65,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,95.0,1,S2
+65,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,95.0,1,S2
+65,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,95.0,1,S2
+65,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,95.0,0,S2
+66,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+66,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+66,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+66,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+66,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+66,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+66,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+69,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+69,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+69,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+69,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+69,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+69,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+69,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+69,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,55.0,1,S2
+70,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,1,S2
+70,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,1,S2
+70,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,1,S2
+70,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,1,S2
+70,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,1,S2
+70,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,1,S2
+70,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,1,S2
+72,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,35.0,1,S2
+72,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,35.0,1,S2
+72,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,35.0,1,S2
+72,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,35.0,1,S2
+72,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,35.0,1,S2
+72,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,35.0,1,S2
+72,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,35.0,1,S2
+72,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,35.0,1,S2
+75,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,50.0,1,S2
+75,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,50.0,1,S2
+75,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,50.0,1,S2
+75,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,50.0,1,S2
+75,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,50.0,1,S2
+75,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,50.0,0,S2
+75,Java,A,Second,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,1,50.0,1,S2
+76,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,0,S2
+76,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,1,S2
+76,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,1,S2
+76,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,1,S2
+76,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,1,S2
+76,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,0,S2
+76,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,1,S2
+76,Java,B,First,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,60.0,1,S2
+79,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+79,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+79,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+79,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,0,S2
+79,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+79,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+79,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+79,Java,C,Second,WAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,2,100.0,1,S2
+80,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,3,5.0,1,S2
+80,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,3,5.0,1,S2
+80,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,3,5.0,1,S2
+80,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,3,5.0,1,S2
+80,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,3,5.0,1,S2
+80,Java,D,First,NAI,E,E3,0,0,0,0,0,0,1,0,High school,Bachelor,3,5.0,0,S2
+91,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Master,Master,5,10.0,0,S1
+91,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Master,Master,5,10.0,1,S1
+91,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Master,Master,5,10.0,0,S1
+91,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Master,Master,5,10.0,0,S1
+91,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Master,Master,5,10.0,0,S1
+91,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Master,Master,5,10.0,0,S1
+92,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,60.0,1,S1
+92,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,60.0,1,S1
+92,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,60.0,1,S1
+92,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,60.0,1,S1
+92,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,60.0,1,S1
+95,Java,C,Second,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,4,95.0,1,S1
+95,Java,C,Second,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,4,95.0,0,S1
+95,Java,C,Second,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,4,95.0,1,S1
+95,Java,C,Second,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,4,95.0,0,S1
+95,Java,C,Second,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,4,95.0,1,S1
+96,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,2,75.0,1,S1
+96,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,2,75.0,0,S1
+96,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,2,75.0,0,S1
+96,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,2,75.0,1,S1
+96,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,2,75.0,0,S1
+96,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,2,75.0,0,S1
+99,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Master,Master,10,0.0,0,S1
+99,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Master,Master,10,0.0,1,S1
+99,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Master,Master,10,0.0,0,S1
+99,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Master,Master,10,0.0,1,S1
+99,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Master,Master,10,0.0,1,S1
+100,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,10.0,0,S1
+100,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,10.0,0,S1
+100,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,10.0,0,S1
+100,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,10.0,0,S1
+100,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,10.0,1,S1
+100,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,10.0,0,S1
+103,Java,C,Second,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,1,80.0,1,S1
+103,Java,C,Second,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,1,80.0,1,S1
+103,Java,C,Second,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,1,80.0,1,S1
+103,Java,C,Second,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,1,80.0,1,S1
+103,Java,C,Second,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,1,80.0,1,S1
+104,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,2,75.0,1,S1
+104,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,2,75.0,0,S1
+104,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,2,75.0,0,S1
+104,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,2,75.0,1,S1
+104,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,2,75.0,1,S1
+104,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,2,75.0,1,S1
+107,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,6,10.0,0,S1
+107,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,6,10.0,1,S1
+107,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,6,10.0,0,S1
+107,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,6,10.0,0,S1
+107,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,6,10.0,1,S1
+107,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,6,10.0,1,S1
+108,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,5,10.0,1,S1
+108,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,5,10.0,1,S1
+108,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,5,10.0,1,S1
+108,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,5,10.0,1,S1
+108,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,5,10.0,1,S1
+108,Java,D,First,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,5,10.0,1,S1
+110,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,75.0,1,S1
+110,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,75.0,1,S1
+110,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,75.0,1,S1
+110,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,75.0,1,S1
+110,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,75.0,1,S1
+110,Java,B,First,WAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,3,75.0,0,S1
+113,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,4,5.0,1,S1
+113,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,4,5.0,0,S1
+113,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,4,5.0,0,S1
+113,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,4,5.0,1,S1
+113,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,4,5.0,1,S1
+113,Java,A,Second,NAI,E,E4,0,0,0,0,0,0,0,1,Bachelor,Master,4,5.0,1,S1

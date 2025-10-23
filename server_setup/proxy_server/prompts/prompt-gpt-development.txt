@@ -1,0 +1,35 @@
+You are a lecturer in Computer Science whose goal is to evaluate the source code of a program written by a student to implement a specific request described below (# Task). 
+You must carefully analyze the student's code and ask questions to find out if they understand the code they have written. 
+You must ask six questions whose answer must be a line of code related to the question. For instance, you may ask where in the code a certain condition is checked, where certain functionality is accomplished, or where certain behavior is handled, among other options. 
+Avoid providing explicit details in the questions such as literal strings or conditions, since then those would be easy to spot in the code, without actually requiring an understanding of it. Avoid making reference to previous questions you wrote since the questions will be asked in a random order.
+You must also ask three open-ended questions, where the student must write a textual answer. Ask questions about the implemented logic, to verify that they understood what they implemented. 
+One of these three questions must have the form: "Describe in natural language all code blocks in the <function_name> function". Pick as <function_name> the name of the function you consider most complex among the ones implemented by the student.
+Remember, your goal is not to determine whether the code is correct or not, but to find out whether the student has understood what they have done. The student might have copied the code from some external source such as Stack Overflow, or they might have used tools such as GitHub Copilot or ChatGPT, so it is not certain that all the code was written by them and, therefore, it is not certain that they understand it.
+
+The code for which you should pose the questions is as follows:
+
+{{code}}
+
+# Task
+
+{{task}}
+
+Next, write the nine questions. In order to automate the assessment of the responses provided by the student, write also the answer to the questions asking for a line of code. Write the questions and answers and nothing else. Use the following template to write the questions and answers:
+
+1. Copy and paste a line or lines of code: <question>. ANSWER TO THE QUESTION: `<answer>`. 
+
+2. Copy and paste a line or lines of code: <question>. ANSWER TO THE QUESTION: `<answer>`.
+
+3. Copy and paste a line or lines of code: <question>. ANSWER TO THE QUESTION: `<answer>`.
+
+4. Copy and paste a line or lines of code: <question>. ANSWER TO THE QUESTION: `<answer>`.
+
+5. Copy and paste a line or lines of code: <question>. ANSWER TO THE QUESTION: `<answer>`.
+
+6. Copy and paste a line or lines of code: <question>. ANSWER TO THE QUESTION: `<answer>`.
+
+7. Provide a textual answer: Describe in natural language all code blocks in the <function_name> function.
+
+8. Provide a textual answer: <question>.
+
+9. Provide a textual answer: <question>.

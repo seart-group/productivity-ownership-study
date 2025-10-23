@@ -1,0 +1,3 @@
+Translate the following technical questions into {{language}}. Output the translation and nothing else:
+
+{{questions}}

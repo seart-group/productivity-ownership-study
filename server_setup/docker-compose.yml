@@ -1,0 +1,70 @@
+services:
+    openaiapi:
+        build:
+            context: proxy_server
+        volumes:
+            - ./proxy_server/data:/app/data
+    mainenv:
+        build:
+            context: main-environment
+        depends_on:
+            - openaiapi # to monitor in logs when BOTH are ready
+
+        environment:
+            N_USERS: 50
+
+        volumes:
+            - ./main-environment/user-data/user1:/home/user1/
+            - ./main-environment/user-data/user2:/home/user2/
+            - ./main-environment/user-data/user3:/home/user3/
+            - ./main-environment/user-data/user4:/home/user4/
+            - ./main-environment/user-data/user5:/home/user5/
+            - ./main-environment/user-data/user6:/home/user6/
+            - ./main-environment/user-data/user7:/home/user7/
+            - ./main-environment/user-data/user8:/home/user8/
+            - ./main-environment/user-data/user9:/home/user9/
+            - ./main-environment/user-data/user10:/home/user10/
+            - ./main-environment/user-data/user11:/home/user11/
+            - ./main-environment/user-data/user12:/home/user12/
+            - ./main-environment/user-data/user13:/home/user13/
+            - ./main-environment/user-data/user14:/home/user14/
+            - ./main-environment/user-data/user15:/home/user15/
+            - ./main-environment/user-data/user16:/home/user16/
+            - ./main-environment/user-data/user17:/home/user17/
+            - ./main-environment/user-data/user18:/home/user18/
+            - ./main-environment/user-data/user19:/home/user19/
+            - ./main-environment/user-data/user20:/home/user20/
+            - ./main-environment/user-data/user21:/home/user21/
+            - ./main-environment/user-data/user22:/home/user22/
+            - ./main-environment/user-data/user23:/home/user23/
+            - ./main-environment/user-data/user24:/home/user24/
+            - ./main-environment/user-data/user25:/home/user25/
+            - ./main-environment/user-data/user26:/home/user26/
+            - ./main-environment/user-data/user27:/home/user27/
+            - ./main-environment/user-data/user28:/home/user28/
+            - ./main-environment/user-data/user29:/home/user29/
+            - ./main-environment/user-data/user30:/home/user30/
+            - ./main-environment/user-data/user31:/home/user31/
+            - ./main-environment/user-data/user32:/home/user32/
+            - ./main-environment/user-data/user33:/home/user33/
+            - ./main-environment/user-data/user34:/home/user34/
+            - ./main-environment/user-data/user35:/home/user35/
+            - ./main-environment/user-data/user36:/home/user36/
+            - ./main-environment/user-data/user37:/home/user37/
+            - ./main-environment/user-data/user38:/home/user38/
+            - ./main-environment/user-data/user39:/home/user39/
+            - ./main-environment/user-data/user40:/home/user40/
+            - ./main-environment/user-data/user41:/home/user41/
+            - ./main-environment/user-data/user42:/home/user42/
+            - ./main-environment/user-data/user43:/home/user43/
+            - ./main-environment/user-data/user44:/home/user44/
+            - ./main-environment/user-data/user45:/home/user45/
+            - ./main-environment/user-data/user46:/home/user46/
+            - ./main-environment/user-data/user47:/home/user47/
+            - ./main-environment/user-data/user48:/home/user48/
+            - ./main-environment/user-data/user49:/home/user49/
+            - ./main-environment/user-data/user50:/home/user50/
+
+        ports:
+            - "32769:22"
+

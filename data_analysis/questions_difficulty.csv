@@ -1,0 +1,101 @@
+folder_name,rater1,rater2,question,with_AI
+0rWPjP1djqiouW-closed-3,1,1,3. Copy and paste a line or lines of code: Which lines add extra points after a certain number of items have been consumed?,TRUE
+0VZM02LZqzplLX-closed-3,1,2,3. Copy and paste a line or lines of code: Where do you add the newly created object to the in-memory collection?,FALSE
+1utAQtiieUofk0-closed-3,1,1,3. Copy and paste a line or lines of code: Which line or lines define the method that fetches the numeric outcome from your object?,FALSE
+2WfyQNOGWBV6NM-closed-6,1,1,6. Copy and paste a line or lines of code: Where do you throw an exception in the streaming logic if an unexpected condition occurs?,TRUE
+3FADAm6b0lPpIr-open-3,2,1,"3. If in the future the code for finding duplicates allowed for slight variations in titles (like ignoring punctuation), how would you update both the test data and the duplicate-finding tests to account for this new requirement?",FALSE
+3G45Qa1BSLPRW1-closed-4,1,3,4. Copy and paste a line or lines of code: Where do you write the gathered record into a data file for future display of results?,TRUE
+3HnKZpb1ftv1Mk-closed-6,1,1,6. Copy and paste a line or lines of code: Where do you retrieve the number of moves each player made in a finished game?,FALSE
+3pmCE55kz2caO2-open-1,2,2,7. Provide a textual answer: Describe in natural language all code blocks in the getMostVoted function.,TRUE
+3vSSHtm83hJ0Xb-open-1,2,2,7. Provide a textual answer: Describe in natural language all code blocks in the getFilmsByTitle function.,TRUE
+5l3FZKX0o6UcCe-closed-2,1,2,2. Copy and paste a line or lines of code: Where do you handle multiple user actions based on the numeric input?,FALSE
+5VYfvZAuWGd5nO-closed-1,1,1,1. Copy and paste a line or lines of code: Where is the code that compares the difficulty levels during the sorting of the exam list?,TRUE
+6JuKysB5f8ieXr-closed-4,1,1,"4. Copy and paste a line or lines of code: Display how the program attempts to convert user input to a numeric type, handling invalid input gracefully.",FALSE
+7bbiR01q5voxyy-closed-2,1,1,"2. Copy and paste a line or lines of code: In the function that obtains a subset based on a partial property, show me the improved approach introduced.",TRUE
+7N4KoKcU0HiFtq-closed-6,1,1,6. Copy and paste a line or lines of code: Where is an iteration performed to display grouped data by a certain attribute?,FALSE
+7Vu6LoJgoKg7Vl-closed-2,1,1,2. Copy and paste a line or lines of code: Which part toggles the gift status between two different values?,TRUE
+8NlRbdM2uSunkn-closed-2,1,2,2. Copy and paste a line or lines of code: Where in the rendering procedure do you show that numeric variable on screen?,FALSE
+8vtTujNblQd7BS-closed-1,1,1,1. Copy and paste a line or lines of code: Which line obtains the response from the remote server in the new method that collects items iteratively?,FALSE
+8ZrXyy33SBhWvA-closed-5,1,1,5. Copy and paste a line or lines of code: Where is the code that persists the updated data structure back to an external file?,FALSE
+9oRfyUqzW2lAeK-open-2,3,1,"2. Can you give an example of a subtle edge case in the parameterized test for invalid rating ranges (min < 0, max > 10, min > max) that isn’t currently covered, and how you would add a test for it?",FALSE
+24AUBBjzH3xbAF-open-2,1,2,8. Provide a textual answer: Why is a loop used in the function that requests a menu choice from the user?,TRUE
+62n0A1qur3r17E-closed-5,1,1,5. Copy and paste a line or lines of code: Indicate where each exam in the list is printed to the console.,TRUE
+63aqwlCP08BTnV-open-2,1,2,8. Provide a textual answer: Explain how your newly introduced point-tracking logic boosts the overall score after certain milestones.,FALSE
+a2jegqK61d01n1-closed-2,1,1,2. Copy and paste a line or lines of code: Show me how you check if a provided value for the 'voto' attribute is outside the allowed range.,FALSE
+a6v76QPEsyN6eT-closed-1,1,1,1. Copy and paste a line or lines of code: Show the portion of code that calculates and displays the duration of the current game.,TRUE
+ACm1YYATPutx5h-open-2,2,3,2. Suppose we modified “getMostVotedIssues” to accidentally retrieve issues with the fewest upvotes. How would you update the test to detect that change?,FALSE
+aDSSw0tXcDk1pT-open-3,1,2,9. Provide a textual answer: Describe in natural language all code blocks in the InterpretCommands function.,FALSE
+AplfaMlYulWiQS-closed-6,1,1,6. Copy and paste a line or lines of code: Which single line prints an error message when the input is outside the allowed range in that function?,FALSE
+BOGXwuQrOvTs76-closed-4,1,2,4. Copy and paste a line or lines of code: Where in the code do you toggle from one symbol to the other for the next turn?,FALSE
+c2coIzGCte5Gua-closed-4,1,1,4. Copy and paste a line or lines of code: Where do you filter the films by checking if their property contains the given parameter in your new code?,TRUE
+CdbTp5ZBsrZ2Bd-closed-5,1,2,"5. Copy and paste a line or lines of code: In your program, where is the blueprint that represents each item defined?",FALSE
+CfHlikbTacK5Cb-open-2,2,3,"2. Suppose the JSON file fails to provide a rating for a particular movie. How do you think the current tests would handle this scenario, and what test might you add?",TRUE
+CheJXvhRPEgxq9-closed-2,1,1,2. Copy and paste a line or lines of code: Where do you show the message that a cell is unavailable for a new move?,TRUE
+CLjZbxZaMyRTBk-closed-1,1,1,1. Copy and paste a line or lines of code: Where do you increment the score each time the snake eats a piece of food?,TRUE
+dIVQb2yUOo7Ubc-closed-1,1,1,1. Copy and paste a line or lines of code: Where is the user data read for the textual label (the exam name) in the method that adds a new exam?,TRUE
+DZw3lZM9dOtHsg-open-4,2,2,"4. In the getDistinctAuthorsMockTest, you filter out null usernames. Suppose an author’s username field is empty (like """"), rather than null. What additional test steps would you add, and how would you expect your code to treat that case?",TRUE
+E5oNnCxLTObMBa-closed-3,1,2,3. Copy and paste a line or lines of code: Where in the code do we add the newly created entity to the existing data and persist it to the CSV?,TRUE
+E9Qpn89185hxEY-closed-1,1,1,"1. Copy and paste a line or lines of code: In your new code, which part checks if the row is out of acceptable range and prints an error message?",FALSE
+eDUtIHCUg0N8oG-open-3,2,2,"3. In your updated “getMostVotedIssuesTest,” you added an assertion that ensures all equally upvoted issues are included. If we removed that line (assertTrue(mostVotedIssue.size() == nIssues)), what bug might slip through?",FALSE
+EogZ48lbCDaQWU-closed-2,1,1,2. Copy and paste a line or lines of code: Where do you verify that two integer variables meet certain constraints before continuing with the logic?,TRUE
+ePnPZJlNzNx0pB-open-2,1,1,8. Provide a textual answer: Why did you decide to throw an IllegalStateException if the supplied title parameter is null?,FALSE
+ETiWOAnlbprCd0-open-5,3,2,"5. Can you give an example of a subtle edge case the new test suite might still miss (for instance, an issue created exactly one year ago), and how would you add a test to cover it?",FALSE
+fB2jhyqp97gcz4-closed-3,1,1,3. Copy and paste a line or lines of code: Which part of the new code uses a streaming operation to match a film property exactly?,TRUE
+FfNCx2pAHRvZGT-open-6,2,2,"6. If we removed the getDistinctAuthorsTest you wrote, which kind of bug in the IssueService would we fail to catch?",TRUE
+fvqafDzYeqrmfl-open-6,1,2,"6. MovieManager includes a searchByYear method, but you haven’t shown a dedicated test for it. Why might testing that method be important, and how would you design such a test?",TRUE
+FXvMRGb1bAeeCB-open-3,1,2,9. Provide a textual answer: Explain how the program ensures (or does not ensure) that no further modifications are possible once an exam is finalized.,FALSE
+fyq15YVkhzaj1c-open-3,3,3,"3. You have a test that verifies getDistinctAuthors returns unique authors. Can you give an example of a subtle edge case it might miss, and how you would add a test for it?",TRUE
+HCt1IwOw3VzgSp-closed-1,1,1,1. Copy and paste a line or lines of code: Where is the code that throws an exception if the unique identifier attribute is missing?,FALSE
+hhnyrIHs1jAh7M-closed-5,1,1,5. Copy and paste a line or lines of code: Show how the list is returned with its elements sorted by a numeric property.,FALSE
+HP0kPsxVr5mm4K-open-2,1,2,7. Provide a textual answer: Describe in natural language all code blocks in the getOpenedMoreOneYear function.,TRUE
+I6Xwxjwrd7ZGIk-open-1,3,2,"1. In your getIssuesTest, can you explain how you verify that no extra issues are returned when the server returns fewer issues than requested? Are there any corner cases you might still be missing?",TRUE
+IfAdj28xWCC4q9-closed-6,1,1,6. Copy and paste a line or lines of code: Which new private method do you use to parse data as part of your retrieval process?,FALSE
+IH2xPecwysZG39-open-1,1,1,7. Provide a textual answer: Why is it necessary to validate user input before performing operations on the data?,TRUE
+JbJW4hPVUGmbNs-open-3,1,1,9. Provide a textual answer: How do you make sure that only a specific number of issues is retrieved in each method?,FALSE
+jFKYKfpTv7y3Mc-open-5,1,1,5. Imagine in MovieManager we decided to allow ratings from -5.0 to 15.0 by removing the current validation checks. How would you update the test suite accordingly?,TRUE
+jVEJXyqGqCE7tF-closed-2,1,1,"2. Copy and paste a line or lines of code: In your new code, where do you decide the first player's symbol randomly?",TRUE
+K3UbuqwajyMwcG-open-1,3,3,7. Provide a textual answer: Describe in natural language all code blocks in the main function.,TRUE
+K4F5PzfYUtsEI2-closed-4,1,1,4. Copy and paste a line or lines of code: Which part of the method checks if a certain property is null or empty in the partial-match retrieval method?,FALSE
+lbojUGvxcKvezS-open-5,2,2,"5. If you introduced a change where getMostVotedIssues returned only the first issue that reached the maximum upvotes, how would you detect this regression with your existing test suite?",TRUE
+lrH7OS3gHrWfeZ-open-3,1,2,9. Provide a textual answer: Describe in natural language all code blocks in the update_snake function.,FALSE
+LXllWJ7gVXE3V9-closed-6,1,1,6. Copy and paste a line or lines of code: Indicate the comparison that determines the secondary ordering when two exams share the same date.,TRUE
+MJom1dHIPO1kHG-open-3,1,1,"9. Provide a textual answer: What advantage do you see in having separate methods for different tasks, such as updating player names and running the main game loop?",FALSE
+MxEuaSG6Z6SVaW-closed-4,1,1,4. Copy and paste a line or lines of code: Could you show me the line or lines of code that calculates a ratio used to categorize the exam's progress status?,FALSE
+nd3RkFou4J3PR6-closed-5,1,1,5. Copy and paste a line or lines of code: Where do you show that the data is now parsed as XML instead of the original format?,TRUE
+Nki2GpqOelmnEQ-closed-5,1,2,5. Copy and paste a line or lines of code: Show how the code removes duplicates when gathering a particular string property from the items.,FALSE
+nMGywRV4i97nBQ-closed-5,1,1,5. Copy and paste a line or lines of code: Show how the program starts measuring the game duration.,FALSE
+o0JEX8vg90uiWu-open-4,2,2,"4. You commented out a test that uses a mock MovieLoader for searching by director. Why is this test important, and how would you finish its implementation to verify empty search results?",FALSE
+o45hsimJics5i4-open-5,3,2,"5. When you test the rating range method, you use assumptions to skip the test if the movie dataset has under 20 entries. Could you describe a scenario where you might instead want to conditionally fail the test rather than skip it, and why?",FALSE
+oc0or3njCBoxO0-closed-3,1,1,3. Copy and paste a line or lines of code: Show me the import statement that was added to address reading data in a new format.,FALSE
+on6f6pyLOEeSmN-closed-3,1,2,3. Copy and paste a line or lines of code: Where in the new code do you create the local structure to store the items returned by each request?,FALSE
+ovJBbOSazysDUr-closed-1,1,1,1. Copy and paste a line or lines of code: In which part of your code do you define the enumeration representing event or celebration types?,TRUE
+OYNJ3nGl9GSVLz-open-4,2,3,4. Imagine we add a new requirement that lets updateMovie accept a null director if the rating is above 9. How would you enhance or revise your tests for addMovie or updateMovie accordingly?,TRUE
+pBSv4pOJcLwi9l-closed-6,1,1,6. Copy and paste a line or lines of code: Which lines place a dynamic label near the bottom corner to reflect a particular numeric progression?,TRUE
+pFyBonBxH8nmXx-closed-3,1,1,3. Copy and paste a line or lines of code: Where do you define the integer attribute that you update based on certain gameplay events?,FALSE
+PoU8IgIgIWA9tK-closed-5,1,1,5. Copy and paste a line or lines of code: Which lines print the current accumulation in a corner of the display?,TRUE
+Q7vgT9fwI7iqBo-open-3,2,2,"3. Could you explain how you chose which tests should use a mock loader and which should rely on the real data, and why that distinction matters for the test suite?",TRUE
+Q82JOQm6ImMqN2-open-1,2,2,"1. Imagine the searchByRatingRange method was changed to accept rating inputs in the range [1, 11], instead of [0, 10]. What updates would you make to your existing tests to ensure they still provide correct coverage?",FALSE
+QdqZU8LcGjgUCu-open-1,1,1,8. Provide a textual answer: Where in your code do you handle the scenario of an exam that is scheduled on a date that has already passed? Please explain your approach.,TRUE
+QQ8aE5b5xmx2rk-open-2,3,2,"2. Can you give an example of an edge case for getMostVotedIssues that isn’t covered by your current tests, and how you would add a new test for it?",TRUE
+R1sFSDcufG85hy-closed-4,1,1,4. Copy and paste a line or lines of code: Where in the code is the user informed that a new item was successfully created?,TRUE
+RcCCtayhTYN9F2-open-1,2,2,"1. In the tests with an empty loader (testSearchByDirectorReturnsEmptyWithEmptyMovieListNotNull, etc.), how could we enhance our checks if the loader returned a partially valid list (e.g., some Movies with null fields)?",TRUE
+rIjRLAXtgFuSy2-closed-2,1,1,"2. Copy and paste a line or lines of code: In the same method, show where you transform the array of issues into a list.",TRUE
+SDFulysdEXVuyt-closed-4,1,1,4. Copy and paste a line or lines of code: Indicate the condition that checks if an exam can still be modified.,TRUE
+TAgb9eWKxAnuU2-closed-2,1,1,2. Copy and paste a line or lines of code: Identify the instruction that removes an item from the data structure.,FALSE
+tNhWwcmgWkyvxy-closed-5,1,1,5. Copy and paste a line or lines of code: Which statement ensures items in a collected list are unique before limiting them?,FALSE
+U20096qiq3aMgL-closed-1,1,1,1. Copy and paste a line or lines of code: Show how the code calculates the next position of the snake to implement wrapping.,TRUE
+uvG78wyrpXouzo-closed-1,1,1,1. Copy and paste a line or lines of code: Where do you set up the route that handles requests to the main page of your application which can handle more than one type of request?,FALSE
+V6h4EUD9E3L7nf-closed-6,1,1,6. Copy and paste a line or lines of code: Which lines handle the display of the stored items on the console after they have been sorted?,FALSE
+Vl18peEvYaI7iz-open-2,1,3,"2. You have a mock test for finding duplicate movies, but how would you expand the test to verify duplicates are detected not just by title and director, but also by matching IMDb IDs if such logic were added?",FALSE
+VWppUO7DCwdYCq-closed-1,1,1,1. Copy and paste a line or lines of code: Where in your code do you handle throwing an exception if a certain property is invalid in the method that retrieves items by an exact match?,TRUE
+wmUHu2z0QjUjpd-closed-6,1,1,6. Copy and paste a line or lines of code: Where do you return the sorted list in that new sorting method?,FALSE
+wthIZfJtkXKN7n-open-4,3,2,"4. Now that your tests mock the service methods, how do you ensure the real integration with GitLab is still correct?",FALSE
+wu4ByuyswYWhQU-closed-2,1,1,2. Copy and paste a line or lines of code: Where do you prevent modifications to an exam that has already reached its final state?,TRUE
+XDkJJLwsWFPoyI-open-1,1,2,7. Provide a textual answer: Describe in natural language all code blocks in the getOpenedIssueForMoreThanOneYear function.,TRUE
+Xqa0BgtvtjbutA-closed-5,1,1,5. Copy and paste a line or lines of code: Which code block checks for a null response before proceeding in your second method?,TRUE
+yArJ5lIUuMfREZ-closed-5,1,1,5. Copy and paste a line or lines of code: Which part of the code inserts the snake's new head after handling a boundary crossing?,FALSE
+yLcl7Fi3ICmHa8-open-2,1,1,"8. Provide a textual answer: In your own words, explain what happens when the program tries to modify an exam but the validation of its new name or new date fails.",TRUE
+z0Z4m1Lo9n9wxc-open-1,2,3,"1. If the method getMostVotedIssues had logic that only tallied upvotes but accidentally ignored downvotes (e.g., a negative logic bug), how would you expand your test coverage to expose that error?",FALSE
+ZON2aZtMEeP36u-closed-4,1,1,4. Copy and paste a line or lines of code: Where do you update the on-screen display when the score remains under a single-digit threshold?,FALSE
+ZP03bChZMe5y6P-closed-6,1,2,6. Copy and paste a line or lines of code: Show me how you collect data across items in a way that removes duplicates.,TRUE
+zpAba3ruk0JiiS-open-6,2,2,"6. In getDistinctAuthorsTest, you check that the list of returned authors has no duplicates by comparing set sizes. What test scenario could you add to ensure duplicates are detected if they do occur?",FALSE
